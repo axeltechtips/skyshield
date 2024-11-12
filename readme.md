@@ -1,6 +1,6 @@
-# SkyShield
+# SkyShield Politics
 
-SkyShield is a curated filter list for [Bluesky](https://bsky.app) that blocks or mutes political content, helping you enjoy a more focused feed. 
+SkyShield Politics is a curated filter list for [Bluesky](https://bsky.app) that blocks or mutes political content, helping you enjoy a more focused feed. 
 
 ---
 
@@ -13,15 +13,15 @@ SkyShield is a curated filter list for [Bluesky](https://bsky.app) that blocks o
 
 ## How to Use
 
-To start using SkyShield on Bluesky, simply subscribe to the list below:
+To start using SkyShield Politics on Bluesky, simply subscribe to the list below:
 
-👉 [SkyShield Filter List](https://bsky.app/profile/did:plc:mpkrd6tr4hijucc2vg52onlr/lists/3lar6svb4gs23) 👈
+👉 [SkyShield Filter List]([https://bsky.app/profile/did:plc:mpkrd6tr4hijucc2vg52onlr/lists/3lar6svb4gs23](https://bsky.app/profile/did:plc:vnlx26ohtvsaawew4hddosuz/lists/3larfwmrgzu2t)) 👈
 
 ---
 
 ## Contributing
 
-Help us improve SkyShield by expanding the username block list! To suggest new keywords:
+Help us improve SkyShield Politics by expanding the username block list! To suggest new keywords:
 
 1. Fork this repository.
 2. Add the usernames to the `blocklist.json` file.
