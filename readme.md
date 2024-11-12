@@ -15,7 +15,7 @@ SkyShield Politics is a curated filter list for [Bluesky](https://bsky.app) that
 
 To start using SkyShield Politics on Bluesky, simply subscribe to the list below:
 
-👉 [SkyShield Filter List]([https://bsky.app/profile/did:plc:mpkrd6tr4hijucc2vg52onlr/lists/3lar6svb4gs23](https://bsky.app/profile/did:plc:vnlx26ohtvsaawew4hddosuz/lists/3larfwmrgzu2t)) 👈
+👉 [SkyShield Filter List](https://bsky.app/profile/did:plc:vnlx26ohtvsaawew4hddosuz/lists/3larfwmrgzu2t) 👈
 
 ---
 
