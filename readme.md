@@ -21,10 +21,10 @@ To start using SkyShield on Bluesky, simply subscribe to the list below:
 
 ## Contributing
 
-Help us improve SkyShield by expanding the keyword block list! To suggest new keywords:
+Help us improve SkyShield by expanding the username block list! To suggest new keywords:
 
 1. Fork this repository.
-2. Add your usernames to the `blocklist.json` file.
+2. Add the usernames to the `blocklist.json` file.
 3. Submit a pull request with a short description of your changes.
 
 All contributions are reviewed, and helpful additions will be merged to keep the list effective.
